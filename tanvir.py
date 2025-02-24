@@ -1,1 +1,2 @@
-print("Welcome to CSE")
+print("Welcome to CSE") 
+print("Hello CSE366 Lab")
